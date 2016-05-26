@@ -1,6 +1,6 @@
 === Comet Cache ===
 
-Stable tag: 160521
+Stable tag: 160526.1
 Requires at least: 4.2
 Tested up to: 4.6-alpha
 Text Domain: comet-cache
@@ -335,6 +335,14 @@ Released under the terms of the [GNU General Public License](http://www.gnu.org/
 Requires WordPress v4.2+.
 
 == Changelog ==
+
+= v160526.1 =
+
+- **Testing:** Testing new release process with Phing v160526, now that I've fixed the issue with the Lite repo branches being out of sync.
+
+= v160526 =
+
+- **Testing:** Testing new release process with Phing v160526. Props @jaswsinc. :-)
 
 = v160521 =
 

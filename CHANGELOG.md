@@ -1,3 +1,11 @@
+= v160526.1 =
+
+- **Testing:** Testing new release process with Phing v160526, now that I've fixed the issue with the Lite repo branches being out of sync.
+
+= v160526 =
+
+- **Testing:** Testing new release process with Phing v160526. Props @jaswsinc. :-) 
+
 = v160521 =
 
 - **Bug Fix**: Fixed a bug that, in some scenarios, resulted in "PHP Fatal error: Undefined class constant 'CACHE_PATH_NO_PATH_INDEX'". This also affected the Cache Statistics feature (Comet Cache Pro), resulting in a blank panel when hovering over the Cache Stats button in the menu bar. See [Issue #752](https://github.com/websharks/comet-cache/issues/752).
